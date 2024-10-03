@@ -62,10 +62,10 @@
         "icon": "/assets/images/email.png"
       },
       {
-        
-      },
-      {
-        
+        "name": "Facebook",
+        "description": "Ventas and",
+        "icon": "/assets/images/facebook.jpg",
+        "url":""
       }
     ]
   },
